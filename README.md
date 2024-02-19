@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skysthelimit007&label=Profile%20views&color=0e75b6&style=flat" alt="skysthelimit007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skysthelimit007" alt="skysthelimit007" /></a> </p>
 
 - 🔭 I’m currently working on **Virtual Chat Assistant**
 
