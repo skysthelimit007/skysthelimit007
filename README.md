@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skysthelimit007&label=Profile%20views&color=0e75b6&style=flat" alt="skysthelimit007" /> </p>
 
 
-- 🔭 I’m currently working on **Virtual Chat Assistant**
+- 🔭 I’m currently working on a **Virtual Chat Assistant**
 
 - 🌱 I’m currently learning **Machine Learning and Neural Networking**
 
 - 👯 I’m looking to collaborate on **ML based Projects**
 
-- 💬 Ask me about **MERN Stack, AI, Cloud Computing**
+- 💬 Ask me about **MERN Stack, AI and Cloud Computing**
 
 - 📫 How to reach me **nairkaran623@gmail.com**
 
